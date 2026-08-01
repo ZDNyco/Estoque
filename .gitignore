@@ -1,0 +1,18 @@
+#python cache
+__pycache__/
+*.py[cod]
+
+#unused for now, maybe later
+.venv/
+venv/
+
+#IN and OUT files
+NFe_OUT/*
+NFe_IN/*
+
+#Only for maintaining the pastes on github
+!NFe_IN/.gitkeep
+!NFe_OUT/.gitkeep
+
+#VScode archives
+.vscode/
